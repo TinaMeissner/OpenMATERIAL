@@ -1,0 +1,28 @@
+name: Full Antora build (based on OSI)
+
+on:
+  push:
+    branches: [ main ]
+# Allow to trigger workflow manually
+  workflow_dispatch:
+
+jobs:
+  trigger_antora:
+    name: Trigger OpenMATERIAL Antora generator
+
+    runs-on: Ubuntu-latest
+
+  #  env:
+  #    MUP_KEY: ${{ secrets.MACHINE_USER_PAT }}
+
+    steps:
+    - name: Trigger Antora generator
+    #  if: ${{ env.MUP_KEY != '' }}
+      uses: peter-evans/repository-dispatch@v3
+      with:
+        # token: ${{ secrets.MACHINE_USER_PAT }}
+        token: ${{ secrets.ASAM_DISPATCH }} # use default GitHub token
+        event-type: antora-build-trigger
+        repository: TinaMeissner/openmaterial-antora-generator # OpenSimulationInterface/osi-antora-generator
+        client-payload: '{"src": "${{ github.repository }}", "ref": "${{ github.ref }}", "sha": "${{ github.sha }}", "head_ref": "${{ github.head_ref }}"}'
+
