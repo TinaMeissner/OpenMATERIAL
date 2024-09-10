@@ -7,7 +7,7 @@ include::{root-path}_config.adoc[]
 
 // DO NOT CHANGE!!!
 //
-:titleoffset!:
+
 :sectnums!:
 
 
@@ -29,7 +29,6 @@ include::general_docs/foreword.adoc[leveloffset=+1]
 [preface]
 include::general_docs/introduction.adoc[leveloffset=+1]
 
-:titleoffset:
 :sectnums:
 include::general_docs/scope.adoc[leveloffset=+1]
 include::general_docs/normative_references.adoc[leveloffset=+1]
