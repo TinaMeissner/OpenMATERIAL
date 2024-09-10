@@ -1,4 +1,6 @@
 = Geometry
+:titleoffset:
+:sectnumoffset:
 
 include::./Introduction.adoc[leveloffset=+1]
 include::./General.adoc[leveloffset=+2]
