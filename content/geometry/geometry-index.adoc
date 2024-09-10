@@ -1,6 +1,5 @@
 = Geometry
 
-:sectnums:
 include::./Introduction.adoc[leveloffset=+1]
 include::./General.adoc[leveloffset=+2]
 include::./object-classes.adoc[leveloffset=+2]
