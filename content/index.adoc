@@ -30,14 +30,14 @@ include::./general_docs/foreword.adoc[leveloffset=+1]
 include::./general_docs/introduction.adoc[leveloffset=+1]
 
 :sectnums:
-include::./general_docs/scope.adoc[leveloffset=+2]
-include::./general_docs/normative_references.adoc[leveloffset=+2]
-include::./general_docs/abbreviations.adoc[leveloffset=+2]
-include::./general_docs/backward_compatibility.adoc[leveloffset=+2]
-include::./terms_and_definitions/terms_and_definitions.adoc[leveloffset=+2]
-include::./use_cases/use_cases.adoc[leveloffset=+2]
-include::./geometry/geometry-index.adoc[leveloffset=+2]
-include::./material/general-structure-index.adoc[leveloffset=+2]
+include::./general_docs/scope.adoc[leveloffset=+1]
+include::./general_docs/normative_references.adoc[leveloffset=+1]
+include::./general_docs/abbreviations.adoc[leveloffset=+1]
+include::./general_docs/backward_compatibility.adoc[leveloffset=+1]
+include::./terms_and_definitions/terms_and_definitions.adoc[leveloffset=+1]
+include::./use_cases/use_cases.adoc[leveloffset=+1]
+include::./geometry/geometry-index.adoc[leveloffset=+1]
+include::./material/general-structure-index.adoc[leveloffset=+1]
 
 
 

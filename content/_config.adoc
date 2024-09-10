@@ -29,7 +29,7 @@ ifndef::include-only-once[]
 endif::[]
 
 ifndef::use-antora-rules[]
-include::{asciidoc-resources}/preamble.adoc[]
+include::../asciidoc-resources/preamble.adoc[]
 endif::[]
 
 ifdef::env-gitlab[]
