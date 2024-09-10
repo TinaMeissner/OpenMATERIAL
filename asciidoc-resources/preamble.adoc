@@ -4,8 +4,8 @@
 :author: ASAM e.V.
 :email: info@asam.net
 :copyright: ASAM e.V. {docyear}
-:toclevels: 4
-:sectnumlevels: 4
+:toclevels: 5
+:sectnumlevels: 5
 :sectnums:
 // do not render tocs of includes
 :no_child_tocs:
