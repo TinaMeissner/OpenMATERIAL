@@ -1,5 +1,5 @@
 = Geometry
-:antora-mapping: true
+:antora-mapping: title
 
 include::./Introduction.adoc[leveloffset=+1]
 include::./General.adoc[leveloffset=+2]
