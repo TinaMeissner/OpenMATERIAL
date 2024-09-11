@@ -1,6 +1,5 @@
 = Geometry
-:titleoffset:
-:sectnumoffset:
+:antora-mapping: true
 
 include::./Introduction.adoc[leveloffset=+1]
 include::./General.adoc[leveloffset=+2]
