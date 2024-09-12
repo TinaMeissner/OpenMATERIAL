@@ -21,7 +21,7 @@ In alteration to the regular https://www.asam.net/license[license terms], ASAM a
 // DO NOT CHANGE!!!
 
 
-:antora_mapping: true
+:antora_mapping: title
 ifndef::use-antora-rules[]
 
 [preface]
