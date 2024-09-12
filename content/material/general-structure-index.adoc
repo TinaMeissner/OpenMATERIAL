@@ -1,6 +1,7 @@
+:antora_mapping: true
 = Material
 
-//include::Introduction.adoc[leveloffset=+1]
-//include::Fileformat.adoc[leveloffset=+1]
-//include::Metadata.adoc[leveloffset=+1]
-//include::Material-parameters.adoc[leveloffset=+1]
+include::Introduction.adoc[leveloffset=+1]
+include::Fileformat.adoc[leveloffset=+1]
+include::Metadata.adoc[leveloffset=+1]
+include::Material-parameters.adoc[leveloffset=+1]

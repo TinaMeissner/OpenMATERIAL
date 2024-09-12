@@ -1,3 +1,4 @@
+:antora_mapping: true
 = Geometry
 
 include::./Introduction.adoc[leveloffset=+1]

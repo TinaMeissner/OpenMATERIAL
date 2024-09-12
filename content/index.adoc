@@ -21,7 +21,7 @@ In alteration to the regular https://www.asam.net/license[license terms], ASAM a
 // DO NOT CHANGE!!!
 
 
-:antora_mapping: title;numbered
+:antora_mapping: true
 ifndef::use-antora-rules[]
 
 [preface]
@@ -43,10 +43,10 @@ include::./geometry/geometry-index.adoc[leveloffset=+1]
 //include::./geometry/File_format_support.adoc[leveloffset=+2]
 //include::./geometry/Performance.adoc[leveloffset=+2]
 include::./material/general-structure-index.adoc[leveloffset=+1]
-include::./material/Introduction.adoc[leveloffset=+2]
-include::./material/Fileformat.adoc[leveloffset=+2]
-include::./material/Metadata.adoc[leveloffset=+2]
-include::./material/Material-parameters.adoc[leveloffset=+2]
+//include::./material/Introduction.adoc[leveloffset=+2]
+//include::./material/Fileformat.adoc[leveloffset=+2]
+//include::./material/Metadata.adoc[leveloffset=+2]
+//include::./material/Material-parameters.adoc[leveloffset=+2]
 
 :sectnums!:
 == Annexes
