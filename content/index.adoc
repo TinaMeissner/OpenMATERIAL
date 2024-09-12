@@ -37,7 +37,16 @@ include::./general_docs/backward_compatibility.adoc[leveloffset=+1]
 include::./terms_and_definitions/terms_and_definitions.adoc[leveloffset=+1]
 include::./use_cases/use_cases.adoc[leveloffset=+1]
 include::./geometry/geometry-index.adoc[leveloffset=+1]
+include::./geometry/Introduction.adoc[leveloffset=+2]
+include::./geometry/General.adoc[leveloffset=+2]
+include::./geometry/object-classes.adoc[leveloffset=+2]
+include::./geometry/File_format_support.adoc[leveloffset=+2]
+include::./geometry/Performance.adoc[leveloffset=+2]
 include::./material/general-structure-index.adoc[leveloffset=+1]
+include::./material/Introduction.adoc[leveloffset=+2]
+include::./material/Fileformat.adoc[leveloffset=+2]
+include::./material/Metadata.adoc[leveloffset=+2]
+include::./material/Material-parameters.adoc[leveloffset=+2]
 
 :sectnums!:
 == Annexes
