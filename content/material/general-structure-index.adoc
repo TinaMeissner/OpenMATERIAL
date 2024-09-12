@@ -1,5 +1,4 @@
 = Material
-:antora_mapping: true
 
 include::Introduction.adoc[leveloffset=+1]
 include::Fileformat.adoc[leveloffset=+1]
