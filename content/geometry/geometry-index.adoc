@@ -1,8 +1,12 @@
 = Geometry
+:antora_mapping: title;numbered
 
 include::Introduction.adoc[leveloffset=+1]
-include::General.adoc[leveloffset=+1]
-include::object-classes.adoc[leveloffset=+1]
-include::File_format_support.adoc[leveloffset=+1]
-include::Performance.adoc[leveloffset=+1]
 
+include::General.adoc[leveloffset=+1]
+
+include::object-classes.adoc[leveloffset=+1]
+
+include::File_format_support.adoc[leveloffset=+1]
+
+include::Performance.adoc[leveloffset=+1]
