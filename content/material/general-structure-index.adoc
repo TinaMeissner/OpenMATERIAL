@@ -1,5 +1,5 @@
 = Material
-:antora_mapping: title;numbered
+:antora_mapping: true
 
 include::Introduction.adoc[leveloffset=+1]
 
