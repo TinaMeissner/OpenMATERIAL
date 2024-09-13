@@ -1,5 +1,5 @@
 = Vehicle structure
-:antora_mapping: true
+
 
 include::vehicle-structure-general.adoc[leveloffset=+1]
 

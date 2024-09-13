@@ -1,5 +1,5 @@
 = Geometry
-:antora_mapping: true
+
 
 include::Introduction.adoc[leveloffset=+1]
 
