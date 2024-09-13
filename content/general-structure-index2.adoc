@@ -1,0 +1,10 @@
+= Material
+:antora_mapping: true
+
+include::Introduction2.adoc[leveloffset=+1]
+
+include::Fileformat2.adoc[leveloffset=+1]
+
+include::Metadata2.adoc[leveloffset=+1]
+
+include::Material-parameters2.adoc[leveloffset=+1]
