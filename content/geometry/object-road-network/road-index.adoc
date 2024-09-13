@@ -1,5 +1,6 @@
 = Road network structure
 :antora_mapping: true
+:sectnums:
 
 include::road-general.adoc[leveloffset=+1]
 

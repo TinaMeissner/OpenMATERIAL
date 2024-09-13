@@ -1,5 +1,6 @@
 = Human structure
 :antora_mapping: true
+:sectnums:
 
 include::human-general.adoc[leveloffset=+1]
 
