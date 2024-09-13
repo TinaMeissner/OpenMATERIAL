@@ -2,8 +2,11 @@
 :antora_mapping: true
 
 include::vehicle-structure-general.adoc[leveloffset=+1]
+
 include::vehicle-structure-model-creation.adoc[leveloffset=+1]
+
 include::vehicle-structure-model-structure.adoc[leveloffset=+1]
+
 include::vehicle-structure-notes.adoc[leveloffset=+1]
 
 
